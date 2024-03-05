@@ -5,10 +5,10 @@
 Double click on downloded file and finish installation
 
 ## Setting up Envirnment Path
--   Go to c://programfiles/nodejs and copy path
--   Open system envirnment add new environment
+-   Go to folder where nodejs is installed example : "C:\Program Files\nodejs"
+-   Edit system envirnment variables and add new environment variables
 -   Value name : NODE_HOME
--   Value path : copy above path
+-   Value path : copy nodejs path
 
 ## Downlaod visual studio
 -   Download and install visual studio
