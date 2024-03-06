@@ -34,3 +34,6 @@ test tests/Techtask.spec.js
 ```
 -   It will run test scenarios and provide results
 
+## Test results
+- All three test scenarios will pass successfully and html report genrated under test-results folder
+- Copy index.html path and check on browser, which will show all hook steps of test run with all the traces.
